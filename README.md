@@ -1,5 +1,4 @@
 # Cricket-Data-Analysis
-Project Summary: Data Analysis with R
 
 Overview:
 This data analysis project was conducted using the R programming language, focusing on extracting insights from a dataset comprising information related to cricket matches. The dataset included details about matches, players, teams, cities, and various match-related statistics.

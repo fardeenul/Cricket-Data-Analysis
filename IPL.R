@@ -9,10 +9,10 @@ library(tidyr)
 
 #Importing the data--------------------------------------------------------------
 # Import the 'deliveries.csv' data
-data <- read.csv("C:/Users/User/Desktop/Data Analyst/R project/Indian Premier League(Cricket)/deliveries.csv")
+data <- read.csv("~/R project/Indian Premier League(Cricket)/deliveries.csv")
 
 # Import the 'matches.csv' data
-matches <- read.csv("C:/Users/User/Desktop/Data Analyst/R project/Indian Premier League(Cricket)/matches.csv")
+matches <- read.csv("~/R project/Indian Premier League(Cricket)/matches.csv")
 
 # head(data)
 # head(matches)
